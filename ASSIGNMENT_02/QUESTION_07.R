@@ -6,11 +6,4 @@
   #        50 60])
 
 
-mat7 <- 3 * (matrix(c(2,5,3,7), nrow=2) - matrix(c(5,10,15,20), nrow=2))
-print(mat7)
-
-#OUTPUT:
-#    [,1] [,2]
-#[1,]  -9 -15
-#[2,] -36 -39
-
+# not possible 
